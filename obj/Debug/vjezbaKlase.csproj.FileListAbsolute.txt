@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\vjezbaKlase\bin\Debug\vjezbaKlase.exe.config
+C:\Users\ucenik\source\repos\vjezbaKlase\bin\Debug\vjezbaKlase.exe
+C:\Users\ucenik\source\repos\vjezbaKlase\bin\Debug\vjezbaKlase.pdb
+C:\Users\ucenik\source\repos\vjezbaKlase\obj\Debug\vjezbaKlase.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\vjezbaKlase\obj\Debug\vjezbaKlase.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\vjezbaKlase\obj\Debug\vjezbaKlase.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\vjezbaKlase\obj\Debug\vjezbaKlase.exe
+C:\Users\ucenik\source\repos\vjezbaKlase\obj\Debug\vjezbaKlase.pdb
